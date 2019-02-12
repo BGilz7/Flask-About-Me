@@ -1,0 +1,22 @@
+h1 {
+  text-align: center;
+
+}
+
+img {
+  display: block;
+  margin: auto;
+}
+
+nav>ul>li {
+  display: inline;
+}
+
+h2 {
+  margin-left: 25px;
+}
+
+p {
+  margin-left: 35px;
+  margin-right: 500px;
+}
