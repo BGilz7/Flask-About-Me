@@ -1,6 +1,7 @@
 from app import app
-from flask import render_template, url_for
+from flask import render_template, url_for, redirect
 
+@app.route('/')
 @app.route('/index')
 def index():
     hobbies = ['Skiing', 'Music', 'Basketball', 'Xbox']

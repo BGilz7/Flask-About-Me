@@ -1,6 +1,5 @@
 h1 {
   text-align: center;
-
 }
 
 img {
@@ -8,15 +7,17 @@ img {
   margin: auto;
 }
 
-nav>ul>li {
-  display: inline;
-}
-
 h2 {
   margin-left: 25px;
 }
 
 p {
-  margin-left: 35px;
-  margin-right: 500px;
+  margin-left: 15px;
+  margin-right: 20px;
+}
+
+footer {
+  width: 100%;
+  text-align: center;
+  padding: 100px;
 }
